@@ -11,6 +11,10 @@ body {
   background: #060AB2;
 }
 
+p {
+  margin-top: 8px;
+}
+
 .intro {
   font-family: 'Montserrat', sans-serif;
   color: white;
