@@ -9,13 +9,13 @@
 body {
   height: 100vh;
   background: #060AB2;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  text-align: center;
 }
 
 .intro {
-  font-family: 'Montserrat', sans-serif;
-  color: white;
   margin: 5% auto;
-  text-align: center;
 }
 
 .memory-game {
